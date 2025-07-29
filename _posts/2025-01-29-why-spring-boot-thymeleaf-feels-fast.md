@@ -5,7 +5,7 @@ date: 2025-01-29
 categories: [tech, architecture, spring-boot]
 ---
 
-Modern web development often chases novelty. Yet for many real‑world products—especially CRUD‑heavy apps—the classic server‑rendered stack still delivers superior speed, reliability, and maintainability. Here's a clear look at why a Spring Boot + Thymeleaf application can feel faster and simpler than a React‑style single‑page app (SPA), along with when a SPA *does* make sense.
+I recently built a CRUD‑heavy application using Spring Boot + Thymeleaf, and I was genuinely stunned by how *fast* it felt. After years of building React SPAs, I'd forgotten what instant page loads actually looked like. No loading spinners, no skeleton screens, just immediate content. The simplicity was equally surprising—no state management libraries, no API layer complexity, just straightforward server‑side rendering that worked. Here's what I discovered about why this "boring" stack performs so well, and when you might still want that React SPA.
 
 ---
 

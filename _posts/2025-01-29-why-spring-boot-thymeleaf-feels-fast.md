@@ -5,7 +5,7 @@ date: 2025-01-29
 categories: [tech, architecture, spring-boot]
 ---
 
-I recently built a CRUD‑heavy application using Spring Boot + Thymeleaf, and I was genuinely stunned by how *fast* it felt. After years in the Next.js/NestJS ecosystem—wrestling with TypeScript configs, managing complex state, optimizing bundle sizes—I'd forgotten what instant page loads actually looked like. No loading spinners, no skeleton screens, no hydration delays. Just immediate content. The simplicity was equally surprising: no separate API layer, no DTOs everywhere, no wrestling with CORS. Here's what I discovered about why this "boring" Java stack outperformed my "modern" TypeScript setup, and when you might still want that Next.js app.
+My recent experience building a CRUD‑heavy application with Spring Boot and Thymeleaf completely redefined my expectations for speed. Coming from several years immersed in the Next.js/NestJS ecosystem—where I wrestled with intricate TypeScript configurations, convoluted state management, and lengthy bundle optimizations—I had almost forgotten the exhilaration of instantaneous page loads. There were no loading spinners, skeleton screens, or hydration delays—just pure and immediate content. The streamlined simplicity was equally striking: without a separate API layer, pervasive DTOs, or the perennial challenge of CORS, the performance edge was clear. This 'boring' Java stack was refreshing.
 
 ---
 

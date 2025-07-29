@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Why My Spring Boot + Thymeleaf App Feels So Fast (and Why \"Boring\" Tech Wins More Than You Think)"
+title: "From Next.js to Spring Boot: The Performance Surprised Me"
 date: 2025-01-29
 categories: [tech, architecture, spring-boot]
 ---
 
-I recently built a CRUD‑heavy application using Spring Boot + Thymeleaf, and I was genuinely stunned by how *fast* it felt. After years of building React SPAs, I'd forgotten what instant page loads actually looked like. No loading spinners, no skeleton screens, just immediate content. The simplicity was equally surprising—no state management libraries, no API layer complexity, just straightforward server‑side rendering that worked. Here's what I discovered about why this "boring" stack performs so well, and when you might still want that React SPA.
+I recently built a CRUD‑heavy application using Spring Boot + Thymeleaf, and I was genuinely stunned by how *fast* it felt. After years in the Next.js/NestJS ecosystem—wrestling with TypeScript configs, managing complex state, optimizing bundle sizes—I'd forgotten what instant page loads actually looked like. No loading spinners, no skeleton screens, no hydration delays. Just immediate content. The simplicity was equally surprising: no separate API layer, no DTOs everywhere, no wrestling with CORS. Here's what I discovered about why this "boring" Java stack outperformed my "modern" TypeScript setup, and when you might still want that Next.js app.
 
 ---
 
